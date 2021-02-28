@@ -6,5 +6,5 @@ var server = http.createServer(function(req,res){
 })
 
 server.listen(3002);
-console.log('The server is runnning');
+console.log('The server is runnning')
 
